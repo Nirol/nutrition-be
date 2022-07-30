@@ -1,0 +1,30 @@
+
+
+FRUITS_LIST = [
+    "Apple",
+    "Apricot",
+    "Banana",
+    "Blackberry",
+    "Blueberry",
+    "Cherry",
+    "Coconut",
+    "Cranberry",
+    "Fig",
+    "Grapefruit",
+    "Grape",
+    "Lychee",
+    "Mango",
+    "Melon",
+    "Nectarine",
+    "Orange",
+    "Papaya",
+    "Peach",
+    "Pear",
+    "Pineapple",
+    "Plum",
+    "Pomegranate",
+    "Raspberry",
+    "Strawberry",
+    "Tangerine",
+    "Watermelon"
+]
